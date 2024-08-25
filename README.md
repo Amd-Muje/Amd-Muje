@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **Unity, Blender, Minecraft**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **Palu have 2 suns**
 
  </div>
  
