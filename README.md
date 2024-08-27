@@ -11,7 +11,7 @@
  
  🔭 I’m currently Student of **Tadulako University**
  
- 🌱 I’m currently learning **Unity, Blender, Minecraft**
+ 🌱 I’m currently learning **Unity, Blender, Kotlin, React**
 
 ⚡ Fun fact **Palu have 2 suns**
 
